@@ -1,0 +1,5 @@
+# Ignore all files in the src directory
+src/*
+
+# But do not ignore the .gitkeep file
+!src/.gitkeep
